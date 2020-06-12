@@ -1,3 +1,3 @@
 # htb
 
-root will be the key
+use admin/root hash as password
